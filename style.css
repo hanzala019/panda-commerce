@@ -1,0 +1,69 @@
+#white {
+              color: beige;
+              letter-spacing: 1px;           
+}
+
+#white:hover {
+         opacity: 0.6;
+}
+
+.same-bg {
+         background: #fceae8;
+         padding:10px 0px;
+         
+        
+}
+
+.fancy {
+    color: rgb(238, 84, 156) ;
+    padding-bottom: 5px;
+}
+
+.btn {
+        background-color: rgb(238, 84, 156) !important;
+        padding: 10px 15px !important;
+        color: #000;
+        font-weight: 600;
+        opacity: 0.95;
+        text-align: center !important;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
+
+#move-right {   
+             padding-left: 200px;
+                
+}
+
+.move-up {
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+
+.move-down {
+    margin-bottom: 15px;
+    padding-top: 30px;
+}
+.bg-gradient {
+    border-radius: 8px;
+    overflow:hidden;
+}
+
+.bg-gradient:hover {
+    opacity: 0.7;
+    cursor: pointer;
+    box-shadow: 5px 7px 7px rgba(67, 67, 68, 0.8);
+    transform: scale(1.05);
+}
+
+input {
+    border:none;
+    outline-color: rgba(97, 97, 97, 0.8);
+}
+
+footer h5 {
+    padding: 30px 10px;
+    text-align: center;
+}
